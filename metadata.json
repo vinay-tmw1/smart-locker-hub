@@ -1,0 +1,5 @@
+{
+  "name": "Smart Locker Hub",
+  "description": "A user interface for managing and interacting with a smart parcel locker system.",
+  "requestFramePermissions": []
+}
